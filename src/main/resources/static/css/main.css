@@ -1,0 +1,47 @@
+#global {
+    text-align: left;
+    border: 1px solid #dedede;
+    background: #efefef;
+    width: 900px;
+    padding: 20px;
+    margin: 100px auto;
+}
+
+form {
+  font:100% Awesome;
+  min-width: 850px;
+  max-width: 900px;
+  width: 900px;
+}
+
+form fieldset {
+  border-color: #bdbebf;
+  border-width: 3px;
+  margin: 0;
+  border: 1px solid #CCCCCC;
+}
+
+legend {
+    font-size: 1.3em;
+}
+
+form label { 
+    width: 400px;
+    display: block;
+    float: left;
+    text-align: right;
+    padding: 2px;
+}
+
+#buttons {
+    text-align: right;
+}
+#errors, li {
+	color: red;
+}
+
+.dataTable{
+	border: 1px solid #CCCCCC;
+	padding: 1em;
+	width: 900px;
+}
