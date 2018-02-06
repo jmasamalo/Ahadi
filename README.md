@@ -1,3 +1,3 @@
 # Ahadi
 
-This is a Spring Boot application
+This is a Java, Spring Boot application, using postgresql
